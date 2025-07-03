@@ -1,8 +1,7 @@
-const botao = document.getElementById("meuBotao"); // ID atualizado
+const botao = document.getElementById("meuBotao");
 const modal = document.getElementById("mensagemModal");
 const fechar = document.querySelector(".fechar");
 
-// Som leve ao abrir o modal
 const audio = new Audio("https://assets.mixkit.co/sfx/download/mixkit-bell-notification-933.wav");
 
 botao.addEventListener("click", function () {
