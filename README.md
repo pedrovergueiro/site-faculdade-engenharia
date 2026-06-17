@@ -1,8 +1,11 @@
-# Site — Projeto de Estudo
+# Site Institucional — Projeto Vergueiro Tech
 
-Site que desenvolvi como um dos primeiros exercícios práticos com HTML e CSS. Tem um valor sentimental por ser um dos primeiros projetos que coloquei no ar.
+Site institucional desenvolvido como projeto pela Vergueiro Tech. Foi um dos primeiros trabalhos que entrei entregue pra um cliente real — e isso muda muito a forma de trabalhar comparado com projetos de estudo.
 
-Olhando o código hoje vejo muita coisa que faria diferente, mas é justamente esse progresso que me motiva a continuar.
+Quando é pra um cliente de verdade, você para de pensar só em "funciona?" e começa a pensar em "ele vai conseguir usar? vai carregar rápido no celular dele? vai ficar bom no WhatsApp quando ele compartilhar o link?"
 
 ## Stack
 HTML · CSS · JavaScript
+
+## Projeto
+Vergueiro Tech
