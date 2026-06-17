@@ -1,11 +1,13 @@
-# Site Institucional — Projeto Vergueiro Tech
+# Site de Apresentação — Trabalho UNINTER
 
-Site institucional desenvolvido como projeto pela Vergueiro Tech. Foi um dos primeiros trabalhos que entrei entregue pra um cliente real — e isso muda muito a forma de trabalhar comparado com projetos de estudo.
+Site pessoal que desenvolvi como trabalho da disciplina de Front-End no curso de Engenharia de Software da UNINTER. O objetivo era me apresentar — quem sou, onde fui, o que gosto — usando HTML, CSS e JavaScript do zero.
 
-Quando é pra um cliente de verdade, você para de pensar só em "funciona?" e começa a pensar em "ele vai conseguir usar? vai carregar rápido no celular dele? vai ficar bom no WhatsApp quando ele compartilhar o link?"
+Foi meu primeiro contato real com desenvolvimento web. Não tem framework, não tem biblioteca — só o básico mesmo, o que tornou o processo mais didático do que parece.
+
+Olhando hoje tem muita coisa que eu faria diferente, mas guardo aqui porque é honesto ver de onde vim.
 
 ## Stack
 HTML · CSS · JavaScript
 
-## Projeto
-Vergueiro Tech
+## Contexto
+Trabalho de Front-End — Engenharia de Software @ UNINTER
